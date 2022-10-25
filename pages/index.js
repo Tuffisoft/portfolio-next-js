@@ -37,7 +37,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-4xl py-2">Micheál <i>Fi</i>achra Mac Cóil</h2>
+            <h2 className="text-4xl py-2">Micheál <b><i>Fi</i></b>achra Mac Cóil</h2>
             <h3 className="text-2xl py-2">Web developer and designer</h3>
             <p className="text-md py-5 leading-8">On a journey of designing and developing on the interwebs</p>
           </div>
